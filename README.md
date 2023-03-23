@@ -6,42 +6,28 @@
 ### Najdete zde všechny materiály, které spolu probereme na online lekcích.
 
 1. lekce:
-* WHILE smyčky
-* WALRUS operátor
-* Program - Shopping cart
+* Úvod do programování
+* Datové typy - čísla, řetězce
+* Proměnné
+* Listy
+* Zabudované funkce
+* ONSITE úloha - Destinatio
 
 2. lekce:
-* WHILE smyčky
-* WALRUS operátor
-* Program - Shopping cart
+* Boolean
+* Podmínky
+* Metody
+* ONSITE úloha - Destinatio 2
 
 3. lekce:
-* WHILE smyčky
-* WALRUS operátor
-* Program - Shopping cart
+* Slovníky
+* Sety
+* ONSITE úloha - Movies
 
 4. lekce:
-* WHILE smyčky
-* WALRUS operátor
-* Program - Shopping cart
+* FOR smyčky
+* Range
+* Enumerate
+* Comprehence
+* ONSITE úloha - Counter
 
-5. lekce:
-* WHILE smyčky
-* WALRUS operátor
-* Program - Shopping cart
-
-6. lekce:
-* Moduly, balíčky
-* Knihovny
-* Program - Hangman
-
-7. lekce:
-* Úvod do funkcí
-* další přiřazování
-* Program - Hangman v funkcemi
-
-8. lekce:
-* Parametry funkcí
-* Docstrings
-* Funkční rámce
-* Program - Calculator s funkcemi
