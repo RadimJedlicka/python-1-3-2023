@@ -31,3 +31,7 @@
 * Comprehence
 * ONSITE úloha - Counter
 
+5. lekce:
+* WHILE smyčky
+* Walrus operátor
+* ONSITE úloha - Shopping cart
