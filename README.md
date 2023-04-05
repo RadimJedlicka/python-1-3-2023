@@ -35,3 +35,8 @@
 * WHILE smyčky
 * Walrus operátor
 * ONSITE úloha - Shopping cart
+
+6. lekce:
+* Skripty, moduly
+* Knihovny
+* ONSITE úloha - Hangman
