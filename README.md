@@ -40,3 +40,8 @@
 * Skripty, moduly
 * Knihovny
 * ONSITE úloha - Hangman
+
+7. lekce:
+* Úvod do funkcí
+* přiřazování
+* ONSITE úloha - Hangman s funkcemi
