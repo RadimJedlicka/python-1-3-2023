@@ -45,3 +45,9 @@
 * Úvod do funkcí
 * přiřazování
 * ONSITE úloha - Hangman s funkcemi
+
+8. lekce
+* Parametry funkcí
+* Dokumentace funkcí
+* Rámce
+* ONSITE úloha - Calculator
