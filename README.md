@@ -51,3 +51,9 @@
 * Dokumentace funkcí
 * Rámce
 * ONSITE úloha - Calculator
+
+9. lekce
+* Práce s textovými soubory
+* Formátování
+* manipulace s cestami souborů
+* ONSITE úloha - Convertor
