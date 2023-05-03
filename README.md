@@ -57,3 +57,8 @@
 * Formátování
 * manipulace s cestami souborů
 * ONSITE úloha - Convertor
+
+10. lekce
+* Výjimky
+* Debuggování
+* ONSITE úloha - Hlavní města
