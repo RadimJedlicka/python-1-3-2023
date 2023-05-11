@@ -62,3 +62,9 @@
 * Výjimky
 * Debuggování
 * ONSITE úloha - Hlavní města
+
+11. lekce
+* CSV
+* JSON
+* sysargv
+* ONSITE úloha - JSON 2 CSV
