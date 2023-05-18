@@ -1,0 +1,111 @@
+from Mates F. to everyone:    7:04 PM
+Ok díky
+from ENGETO Lektor to everyone:    7:05 PM
+import requests
+from bs4 import BeautifulSoup
+from Daniel L. to everyone:    8:19 PM
+ok
+from Denis H. to everyone:    8:19 PM
+ok
+from Daniel F. to everyone:    8:25 PM
+jinak s nějakými problemy se na tebe můžeme obrátit? ohledně 3.projektu?
+from David M. to everyone:    8:25 PM
+To je děs
+from David Cudeko to everyone:    8:25 PM
+to bude zaujimave
+from Denis H. to everyone:    8:25 PM
+Tohle bude zazivne celkem
+from Michal E. to everyone:    8:42 PM
+ptal jsem se jardy a pry bude v listopadu
+from Marcel H. to everyone:    8:45 PM
+jasan
+from Denis H. to everyone:    8:46 PM
+nene
+from Filip to everyone:    8:46 PM
+neznam) ukaz)
+from Filip to everyone:    8:48 PM
+ano
+from Lenka  to everyone:    8:48 PM
+naprosto souhlasim, bezvadny kurz :)
+from Daniel L. to everyone:    8:49 PM
+ja mam este 3 dotazy take viac menej karierne :)
+from Daniel L. to everyone:    8:49 PM
+1. Akymi kariernymi smermi sa da vydat s Pythonom? Kde konkretne sa Python najviac vyuziva v praxi, s cim si sa stretol ty, alebo tvoji kolegovia? Lebo na vyvoj aplikacii (Java, C,...) alebo webovych stranok (JavaScript, Html, Css), prip. mobilnych aplikacii sa asi viac pouzivaju ine jazyky.
+
+2. Je dobry napad najprv zacat ako Tester? Alebo sa radsej sustredit na tu oblast, ktora ma zaujima viac a hladat rovno juniorske pozicie aj ked to moze trvat mozno dlhsie kym taku poziciu najdem?
+
+3. Ci mas aspon trochu povedomie o tom ako je to s hladanim prace v zahranici pre uplneho juniora? (Predpokladajme ze jazyk viem) Poznas niekoho takeho?
+from Michal E. to everyone:    8:50 PM
+mate nekdo zkusenost nebo potkal jste se s CS50?  :) https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript?index=product&queryID=f7c1300817c04a0e40d4f376f17018c8&position=3&search_index=product&results_level=first-level-results&term=cs50&campaign=CS50%27s+Web+Programming+with+Python+and+JavaScript&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
+from Filip to everyone:    8:53 PM
+co děláš ty? datovou analýzu?
+from David M. to everyone:    8:54 PM
+Dá se Python použít na frontend?
+from Daniel L. to everyone:    8:54 PM
+Ok, jasne
+from Daniel L. to everyone:    8:54 PM
+:)
+from Daniel L. to everyone:    8:55 PM
+Janse, diky moc za odpovede
+from Daniel F. to everyone:    8:57 PM
+jaky byl tvuj karierní rust
+from Filip to everyone:    8:57 PM
+ok diky, zajimave)
+from Tomas D. to everyone:    8:58 PM
+Ja taky moc dekuji za Tvuj cas a Tvoji ochotu.
+from David M. to everyone:    8:58 PM
+Ok dikes
+from Denis H. to everyone:    8:58 PM
+Taky dekuji za kurz bylo super
+from Filip to everyone:    8:58 PM
+bylo to zajimave. aůe ted to teprve zacina :-)
+from David Cudeko to everyone:    8:59 PM
+Dekuji, skvela prace
+from David M. to everyone:    8:59 PM
+Super akademie, moc mě to baví jen získat zkušenosti
+from Filip to everyone:    9:00 PM
+jsi spokojeny v praci, naplnuje te to?
+from Daniel F. to everyone:    9:00 PM
+Tak ať se i nadále daří a třeba se nekdy potkáme
+from Lucie I to everyone:    9:01 PM
+Diky moc za kurz, Radime, jsi skvely lektor a dobre jsi to vse vysvetlil.
+from Filip to everyone:    9:01 PM
+to je super, to hledam :-)
+from Vojta K. to everyone:    9:04 PM
+Ahoj, díky moc, kurz byl velmi dobře uspořádaný a díky za ochotu.
+from Tereza S. to everyone:    9:04 PM
+Diky za vyuku, byla perfektni
+from David M. to everyone:    9:05 PM
+jj jsme
+from Michael Č to everyone:    9:05 PM
+díky moc, perfektní kurz
+from Filip to everyone:    9:05 PM
+ale jo sme tu :-) asi dosly dotazy :-)
+from Michal T. to everyone:    9:05 PM
+Děkuji za kurz. Osobně mi to dalo určitě hodně, takže supr práce :)
+from Daniel L. to everyone:    9:05 PM
+Po akej dlhej dobe si sa citil, ze uz to "vies"? :)
+from Jan D. to everyone:    9:05 PM
+Taky díky za kurz, dotazy nyní žádný nemam, možná později na discordu
+from Filip to everyone:    9:05 PM
+diky moc za kurz, bylo to velmi srozmitelne. ted uz jen si to musim pustit znovu. opakovani matka moudrosti :-)
+from David M. to everyone:    9:06 PM
+Radime dikes moc, měj se krásně
+from Daniel L. to everyone:    9:07 PM
+Jo, diky za kurz :)
+from Mates F. to everyone:    9:07 PM
+Díky za vše ahoj.
+from Tomas K. to everyone:    9:07 PM
+Diky moc za super kurz, at se dari! Ahoj.
+from Jan D. to everyone:    9:07 PM
+čau čau
+from Filip to everyone:    9:07 PM
+Díky Radime !!
+from David M. to everyone:    9:07 PM
+Ahoj
+from Michal T. to everyone:    9:07 PM
+ahoj ahoj :)
+from Tereza S. to everyone:    9:07 PM
+ahoj :-)
+from Daniel F. to everyone:    9:07 PM
+Díky čau čau

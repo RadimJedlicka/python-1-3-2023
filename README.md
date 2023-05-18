@@ -68,3 +68,9 @@
 * JSON
 * sysargv
 * ONSITE úloha - JSON 2 CSV
+
+12. lekce
+* Virtuální prostředí
+* Knihovny třetích stran
+* Úvod do webscrapingu
+* API
